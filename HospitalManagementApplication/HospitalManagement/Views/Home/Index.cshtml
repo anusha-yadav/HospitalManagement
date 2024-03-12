@@ -1,0 +1,109 @@
+﻿@model HospitalManagement.ViewModels.PatientViewModel;
+
+@{
+    var genderData = ViewData["GenderData"] as List<PatientViewModel>;
+    var treatmentDetailsData = ViewData["TreatmentDetailsData"] as List<PatientViewModel>;
+    var multipleMedicalConditionData = ViewData["MultipleMedicalConditionData"] as List<PatientViewModel>;
+    var unsucessfulTreatments = ViewData["UnsuccessfulTreatments"] as List<PatientViewModel>;
+    var treatmentSuccess = ViewData["TreatmentSuccess"] as List<PatientViewModel>;
+}
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+
+<h2>Gender Data</h2>
+<table border="1">
+    <tr>
+        <th>Gender</th>
+        <th>Average Age</th>
+        <th>Medical Condition</th>
+    </tr>
+    @foreach (var item in genderData)
+    {
+        <tr>
+            <td>@item.Gender</td>
+            <td>@item.Age</td>
+            <td>@item.MedicalHistory</td>
+        </tr>
+    }
+</table>
+
+<h2>Treatment Details Data</h2>
+<table border="1">
+    <tr>
+        <th>Treatment Type</th>
+        <th>First Name</th>
+        <th>Age</th>
+    </tr>
+    @foreach (var item in treatmentDetailsData)
+    {
+        <tr>
+            <td>@item.TreatmentType</td>
+            <td>@item.FirstName</td>
+            <td>@item.Age</td>
+        </tr>
+    }
+</table>
+
+<h2>Multiple Medical Condition Data</h2>
+<table border="1">
+    <tr>
+        <th>First Name</th>
+        <th>Age</th>
+        <th>Medical Conditions</th>
+    </tr>
+    @foreach (var item in multipleMedicalConditionData)
+    {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.Age</td>
+            <td>@string.Join(", ", item.MedicalConditions)</td>
+        </tr>
+    }
+</table>
+
+
+<h2>Unsucessful Treatments Data</h2>
+<table border="1">
+    <tr>
+        <th>First Name</th>
+        <th>Age</th>
+        <th>Address</th>
+        <th>Medical Conditions</th>
+    </tr>
+    @foreach (var item in unsucessfulTreatments)
+    {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.Age</td>
+            <td>@item.Address</td>
+            <td>@string.Join(", ", item.MedicalConditions)</td>
+        </tr>
+    }
+</table>
+
+<h2>Treatment Success</h2>
+<table border="1">
+    <tr>
+        <th>Medical Condition</th>
+        <th>SuccessRate</th>
+    </tr>
+    @foreach (var item in treatmentSuccess)
+    {
+        <tr>
+            <td>@item.MedicalHistory</td>
+            <td>@item.SuccessRate</td>
+        </tr>
+    }
+</table>
+
+

@@ -1,0 +1,14 @@
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\bin\Debug\net6.0\HospitalManagement.Data.deps.json
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\bin\Debug\net6.0\HospitalManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\bin\Debug\net6.0\HospitalManagement.Data.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\refint\HospitalManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\ref\HospitalManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\bin\Debug\net6.0\HospitalManagement.Data.runtimeconfig.json
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Data\obj\Debug\net6.0\HospitalManagement.Data.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Repository.deps.json
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Repository.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\refint\HospitalManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\ref\HospitalManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Common.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Common.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Data.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.csproj.CopyComplete

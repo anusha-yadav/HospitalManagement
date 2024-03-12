@@ -1,0 +1,11 @@
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\bin\Debug\net6.0\HospitalManagement.Common.deps.json
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\bin\Debug\net6.0\HospitalManagement.Common.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\bin\Debug\net6.0\HospitalManagement.Common.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\HospitalManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\HospitalManagement.Common.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\HospitalManagement.Common.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\HospitalManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\HospitalManagement.Common.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\refint\HospitalManagement.Common.dll
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\HospitalManagement.Common.pdb
+C:\Users\Anusha Yadav\source\repos\HospitalManagementApplication\HospitalManagement.Common\obj\Debug\net6.0\ref\HospitalManagement.Common.dll

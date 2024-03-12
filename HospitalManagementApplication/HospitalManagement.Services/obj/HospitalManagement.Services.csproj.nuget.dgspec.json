@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Services\\HospitalManagement.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Common\\HospitalManagement.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Common\\HospitalManagement.Common.csproj",
+        "projectName": "HospitalManagement.Common",
+        "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Common\\HospitalManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\Anusha Yadav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anusha Yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Data\\HospitalManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Data\\HospitalManagement.Data.csproj",
+        "projectName": "HospitalManagement.Data",
+        "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Data\\HospitalManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\Anusha Yadav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anusha Yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj",
+        "projectName": "HospitalManagement.Repository",
+        "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\Anusha Yadav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anusha Yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Common\\HospitalManagement.Common.csproj": {
+                "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Common\\HospitalManagement.Common.csproj"
+              },
+              "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Data\\HospitalManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Data\\HospitalManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Services\\HospitalManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Services\\HospitalManagement.Services.csproj",
+        "projectName": "HospitalManagement.Services",
+        "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Services\\HospitalManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\Anusha Yadav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anusha Yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj": {
+                "projectPath": "C:\\Users\\Anusha Yadav\\source\\repos\\HospitalManagementApplication\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
