@@ -11,6 +11,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<HospitalManagementContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("DBConnection")));
 builder.Services.AddScoped<HospitalManagementRepository>();
 builder.Services.AddScoped<HospitalManagementServices>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
